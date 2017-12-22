@@ -5,9 +5,9 @@
 ------------------------
 redis = (loadfile "Data/redis.lua")()
 redis = redis.connect('127.0.0.1', 6379)
-botapi = 488610809
-channel_id = -1001135894458
-channel_user = "@BG_TeaM"
+botapi = 469394509
+channel_id = -1001133661251
+channel_user = "@Zeusbotsupport"
 local BOT = 1
 function dl_cb(arg, data)
 end
